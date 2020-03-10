@@ -4,8 +4,8 @@ package com.cotefacil2;
 
 public class Teste {
 //    static int x = 37; // resposta
-    int x = 37;
     public static void main(String [] args) {
+        int x = 37;
         System.out.println(x);
     }
 }
